@@ -1,6 +1,4 @@
-from PIL import Image, ImageDraw
 import gradio as gr
-import os,uvicorn,requests,json,base64
 from caption import Model as captionModel
 from translate import Model as translateModel
 
