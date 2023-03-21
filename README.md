@@ -19,4 +19,8 @@ trans = translateModel("cpu") ## cuda
 demo.launch(share=True) 
 </pre>
 
+If you want to change caption model, Edit caption.py
+<pre>
+
+</pre>
 ![bg](bg.png)
